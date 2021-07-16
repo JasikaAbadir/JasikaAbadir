@@ -1,5 +1,5 @@
 <h2> Hi, I'm Jasika Abadir! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> 
+<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230"> 
 </em></p>
 
 
@@ -12,13 +12,14 @@
 
 ```javascript
 Skills = {
-  Known: [Python, HTML, Amazon Web Services (AWS), Linux, Git, json],
-  Learning: [CSS, Flask, Django ],
+  Known: [Python, Amazon Web Services (AWS), Linux, Git, json],
+  Learning: [CSS, MYSQL, HTML],
   Future Learning: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+                        Azure,
+                        Flask,
+                        Django
+                        
+                       },
+ Extras: "Completeing various AWS Lab challenges to test & improve my knowledge/troubleshooting skills"
 }
 ```
