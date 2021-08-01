@@ -12,12 +12,12 @@
 
 ```javascript
 Skills = {
-  Known: [Python, Amazon Web Services (AWS), Linux, Git, json],
+  Known: [Python, Amazon Web Services (AWS), Linux, Git, JSON],
   Learning: [CSS, MYSQL, HTML],
   Future Learning: {
                         Azure,
-                        Flask,
-                        Django
+                        Ruby,
+                        Docker
                         
                        },
  Extras: "Completeing various AWS Lab challenges to test & improve my knowledge/troubleshooting skills"
